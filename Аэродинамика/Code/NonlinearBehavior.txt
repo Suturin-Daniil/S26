@@ -1,0 +1,5 @@
+J5012, NACA 0009, NACA 64A010 & SD8020
+all tested at Princeton 1 and showed to varying degrees nonlinearities in the lift
+curve about 0 deg. A much more dramatic case of this effect (which gives the
+airfoil a "deadband" in relative terms) was found by Mueller & Batill on the
+NACA 663-018 airfoil.22
