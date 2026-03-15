@@ -1,0 +1,3 @@
+kv	resistance	idleCurrent	mass
+880	0.039	1.6	0.139
+1050	0.028	2	0.139
