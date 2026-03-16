@@ -1,0 +1,107 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="lG6YNF6JPPXpQNTsCsqG">
+    <mxGraphModel dx="1436" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-1" value="&lt;b&gt;ЛА&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-2" value="Система исполнительных устройств" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-3" value="Конструкция" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-4" value="Система питания" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-5" value="Бортовое оборудование" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-6" value="Вычислитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-7" value="Сервоприводы аэродинамических поверхностей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-9" value="Аккумуляторная батарея" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-10" value="Силовая установка" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-11" value="Регулятор оборотов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="242" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-12" value="Система связи" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="847.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-13" value="Камера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-14" value="Система компьютерного зрения" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-15" value="Интерфейс передачи данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-16" value="Запоминающее устройство" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-19" value="Полетный контроллер" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-30" value="Система контроля груза" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="280" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-31" value="Привод дверцы грузового отсека" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="242" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-32" value="Привод подвеса груза&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-33" value="Аккумуляторные ячейки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-34" value="Силовой и балансировочный кабели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-35" value="Бесколекторный электромотор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-36" value="Воздушный винт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-38" value="Фюзеляж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-39" value="Крыло" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-40" value="Хвостовое оперение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-41" value="Силовой каркас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

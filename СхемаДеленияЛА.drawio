@@ -1,0 +1,281 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="lG6YNF6JPPXpQNTsCsqG">
+    <mxGraphModel dx="1436" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-14" target="fsfezYPLPfrIEpBoU6P8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-1" target="fsfezYPLPfrIEpBoU6P8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-1" value="&lt;b&gt;ЛА&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-2" target="fsfezYPLPfrIEpBoU6P8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="440" />
+              <mxPoint x="70" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-2" target="fsfezYPLPfrIEpBoU6P8-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="440" />
+              <mxPoint x="205" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-2" value="Система исполнительных устройств" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-3" target="fsfezYPLPfrIEpBoU6P8-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="130" />
+              <mxPoint x="1080" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-3" target="fsfezYPLPfrIEpBoU6P8-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="130" />
+              <mxPoint x="800" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-3" target="fsfezYPLPfrIEpBoU6P8-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-3" value="Конструкция" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-33" target="fsfezYPLPfrIEpBoU6P8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-4" value="Система питания" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-5" target="fsfezYPLPfrIEpBoU6P8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-5" target="fsfezYPLPfrIEpBoU6P8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-5" target="fsfezYPLPfrIEpBoU6P8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-5" target="fsfezYPLPfrIEpBoU6P8-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-5" value="Бортовое оборудование" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="560" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-6" value="Вычислитель" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-7" value="Сервоприводы аэродинамических поверхностей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="10" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-10" target="fsfezYPLPfrIEpBoU6P8-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-10" value="Силовая установка" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-11" value="Регулятор оборотов" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-12" target="fsfezYPLPfrIEpBoU6P8-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-12" value="Система связи" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="690" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-13" value="Камера" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-14" value="Система компьютерного зрения" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-15" value="Интерфейс передачи данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="756" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-16" value="Запоминающее устройство" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="683" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-19" target="fsfezYPLPfrIEpBoU6P8-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-19" value="Полетный контроллер" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="560" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-30" target="fsfezYPLPfrIEpBoU6P8-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-30" value="Система контроля груза" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="145" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-31" value="Привод дверцы грузового отсека" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="145" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-32" value="Привод подвеса груза&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="145" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-34" value="Силовой и балансировочный кабели" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-35" value="Бесколекторный электромотор" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-36" value="Воздушный винт" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-38" target="fsfezYPLPfrIEpBoU6P8-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-38" value="Фюзеляж" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-39" target="fsfezYPLPfrIEpBoU6P8-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-39" value="Крыло" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-40" target="fsfezYPLPfrIEpBoU6P8-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-40" value="Хвостовое оперение" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="740" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-41" value="Корпус с силовым каркасом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-42" value="Телеметрический канал связи&lt;div&gt;443 МГц&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="690" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-43" value="Канал ручного управления&lt;div&gt;2.4 ГГц&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="690" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-44" target="fsfezYPLPfrIEpBoU6P8-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-44" value="FPV система" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="820" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-45" value="Интерфейс сопряжения крыла и хвостового оперения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-47" target="fsfezYPLPfrIEpBoU6P8-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-47" value="Крышки и дверцы грузового отсека" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-48" value="Консоли крыла" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-49" value="Элероны" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="880" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-50" value="Хвостовая балка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-51" target="fsfezYPLPfrIEpBoU6P8-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-51" value="Горизонтальное, вертикальное оперение" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="740" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-52" value="Лонжерон" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-53" value="Инерциальный измериельный блок" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="682" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-56" value="Вычислитель" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-58" value="Внешние датчики" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-59" value="Камера" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="820" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-60" value="Видеопередатчик&lt;div&gt;5 ГГц&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="820" y="607" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-61" value="Программное обеспечение" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-62" target="fsfezYPLPfrIEpBoU6P8-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-62" value="Наземный пункт управления" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-63" value="Пользовательский интерфейс управления полетом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-64" value="Телеметрический канал связи&lt;div&gt;443 МГц&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-65" value="Пульт управления, FPV очки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-95" value="Рули высоты, направления" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-99" target="fsfezYPLPfrIEpBoU6P8-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-99" value="Механика контроля груза" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-101" value="Моторама" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=13;" edge="1" parent="1" source="fsfezYPLPfrIEpBoU6P8-4" target="fsfezYPLPfrIEpBoU6P8-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-33" value="Аккумуляторные ячейки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsfezYPLPfrIEpBoU6P8-9" value="Аккумуляторная батарея" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
