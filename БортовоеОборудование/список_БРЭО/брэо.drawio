@@ -1,0 +1,129 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="ixQM3x9bXwIp4_i3Uf3R">
+    <mxGraphModel dx="1696" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Навигационный модуль" vertex="1">
+          <mxGeometry height="160" width="100" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-33" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-58" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-62" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Полетный контроллер" vertex="1">
+          <mxGeometry height="100" width="280" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="БЧЭ" vertex="1">
+          <mxGeometry height="50" width="80" x="60" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Барометр" vertex="1">
+          <mxGeometry height="50" width="80" x="150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-29" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OSD" vertex="1">
+          <mxGeometry height="50" width="80" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPS" vertex="1">
+          <mxGeometry height="50" width="80" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Магнитометр" vertex="1">
+          <mxGeometry height="50" width="80" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-31" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Телеметрия" vertex="1">
+          <mxGeometry height="50" width="110" x="120" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-25" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GtjfVTp5_aOHbRbU2tee-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Радиомодуль" vertex="1">
+          <mxGeometry height="50" width="110" x="120" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Наземная станция" vertex="1">
+          <mxGeometry height="30" width="100" x="190" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-30" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Видеопередатчик&lt;div&gt;(VTX)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="240" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-24" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GtjfVTp5_aOHbRbU2tee-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Видеоприемник&lt;div&gt;(VRS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="240" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-28" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GtjfVTp5_aOHbRbU2tee-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Видеорегистратор&lt;div&gt;(DVR)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="240" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-35" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="АКБ" vertex="1">
+          <mxGeometry height="50" width="80" x="-60" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ПДУ /&amp;nbsp; ПК" vertex="1">
+          <mxGeometry height="50" width="110" x="120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Шлем оператора" vertex="1">
+          <mxGeometry height="50" width="110" x="240" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-49" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ДВС" vertex="1">
+          <mxGeometry height="50" width="80" x="150" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-48" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Камера" vertex="1">
+          <mxGeometry height="50" width="80" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-52" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="GtjfVTp5_aOHbRbU2tee-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-60" edge="1" parent="1" source="GtjfVTp5_aOHbRbU2tee-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GtjfVTp5_aOHbRbU2tee-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Регулятор оборотов" vertex="1">
+          <mxGeometry height="50" width="90" x="369" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Мотор" vertex="1">
+          <mxGeometry height="50" width="80" x="480" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сервоприводы" vertex="1">
+          <mxGeometry height="50" width="90" x="370" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GtjfVTp5_aOHbRbU2tee-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;АКБ - аккумуляторная батарея&lt;/div&gt;&lt;div&gt;ДВС- датчик воздушной скорости&lt;/div&gt;&lt;div&gt;ПДУ - пульт дистанционного управления&lt;/div&gt;&lt;div&gt;ПК - персональный компьютер&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OSD - on screen display&lt;/div&gt;&lt;div&gt;DVR - data video receiver&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="260" x="400" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylk5hq79NGAD6WSR52ce-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Лидар" vertex="1">
+          <mxGeometry height="50" width="80" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylk5hq79NGAD6WSR52ce-5" edge="1" parent="1" source="Ylk5hq79NGAD6WSR52ce-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.139;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" target="GtjfVTp5_aOHbRbU2tee-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="320" />
+              <mxPoint x="89" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
